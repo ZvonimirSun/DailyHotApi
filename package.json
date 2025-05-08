@@ -1,21 +1,21 @@
 {
-  "name": "dailyhot-api",
-  "version": "2.0.7",
+  "name": "@zvonimirsun/dailyhot-api",
+  "version": "1.0.0",
   "description": "An Api on Today's Hot list",
   "keywords": [
     "API",
     "RSS"
   ],
-  "homepage": "https://github.com/imsyy/DailyHotApi#readme",
+  "homepage": "https://github.com/ZvonimirSun/DailyHotApi#readme",
   "bugs": {
-    "url": "https://github.com/imsyy/DailyHotApi/issues"
+    "url": "https://github.com/ZvonimirSun/DailyHotApi/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imsyy/DailyHotApi.git"
+    "url": "git+https://github.com/ZvonimirSun/DailyHotApi.git"
   },
   "license": "MIT",
-  "author": "imsyy",
+  "author": "ZvonimirSun",
   "main": "dist/index.js",
   "declaration": true,
   "declarationMap": true,
